@@ -1,0 +1,15 @@
+﻿  ChasingMonster.cpp
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\ChasingMonster.cpp(27,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(16,44): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(233,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(241,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(291,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(370,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(371,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(448,29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\mtm\Desktop\22026507_MaiTienManh\game_ltnc\Game.cpp(449,29): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  GameMap.cpp
+  main.cpp
+  Generating Code...
+  game_ltnc.vcxproj -> C:\Users\mtm\Desktop\22026507_MaiTienManh\x64\Debug\game_ltnc.exe
